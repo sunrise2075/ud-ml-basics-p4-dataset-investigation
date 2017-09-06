@@ -1,5 +1,7 @@
 # 探索棒球赛数据集-项目概况
 
+优达学城机器学习基石纳米学位项目
+
 如果对项目本身有什么疑惑，请登录你的Udacity教室，查看[项目介绍](https://classroom.udacity.com/nanodegrees/nd009-cn-basic/parts/54ccc651-212a-4fb9-a201-a196b6d52656/modules/f7c94c21-5de4-4946-9a06-c58f6d8a6d4d/lessons/3176718735239847/concepts/53862192490923)
 
 在进行数据分析的过程中请参考[项目评审要求](https://review.udacity.com/#!/rubrics/306/view) 
@@ -55,5 +57,3 @@
 ### 分享你的发现
 
 分析完数据以后，编写一份报告，分享你觉得最有意思的发现。我们建议你使用 IPython Notebook，这样你可以在同一份文件里包括你的报告和代码。当然你也可以使用其他你习惯的工具。# 探索棒球赛数据集
-
-优达学城机器学习基石纳米学位项目
